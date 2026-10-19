@@ -1,0 +1,329 @@
+Date,Category,Description,Amount,Payment_Method,Type
+2025-11-02,Food,Quick lunch at cafeteria,666.55,Debit Card,Expense
+2025-11-02,Rent,Monthly apartment housing rent,16000.0,Net Banking,Expense
+2025-11-02,Travel,Intercity express bus ticket,811.66,Credit Card,Expense
+2025-11-02,Travel,Intercity express bus ticket,463.18,Credit Card,Expense
+2025-11-03,Salary,Monthly corporate payroll salary,52000.0,Net Banking,Income
+2025-11-03,Travel,Metro card monthly recharge,879.71,Credit Card,Expense
+2025-11-04,Food,Morning cafe coffee & pastry,1267.45,Debit Card,Expense
+2025-11-05,Food,Weekend food delivery order,310.64,UPI,Expense
+2025-11-06,Entertainment,Weekend cinema multiplex movie tickets,1750.04,Debit Card,Expense
+2025-11-07,Utilities,Water utility municipal payment,2670.76,Credit Card,Expense
+2025-11-09,Shopping,Online retail order (Amazon/Flipkart),4644.07,UPI,Expense
+2025-11-10,Utilities,Monthly electricity bill,836.85,Debit Card,Expense
+2025-11-15,Food,Supermarket grocery haul,990.79,Debit Card,Expense
+2025-11-17,Shopping,Electronics & phone accessories,1250.91,Net Banking,Expense
+2025-11-17,Food,Restaurant family dinner,168.35,Debit Card,Expense
+2025-11-18,Salary,Freelance web consulting milestone,12012.0,Net Banking,Income
+2025-11-20,Shopping,Online retail order (Amazon/Flipkart),4685.15,Net Banking,Expense
+2025-11-27,Food,Supermarket grocery haul,390.16,Cash,Expense
+2025-11-27,Utilities,Mobile prepaid/postpaid recharge,1498.3,Credit Card,Expense
+2025-12-01,Entertainment,Streaming subscription (Netflix/Spotify),702.82,UPI,Expense
+2025-12-01,Salary,Monthly corporate payroll salary,52000.0,Net Banking,Income
+2025-12-02,Utilities,Water utility municipal payment,2545.42,Debit Card,Expense
+2025-12-03,Utilities,Mobile prepaid/postpaid recharge,1725.13,UPI,Expense
+2025-12-05,Rent,Monthly apartment housing rent,16000.0,Net Banking,Expense
+2025-12-06,Entertainment,Video game purchase,1591.76,UPI,Expense
+2025-12-06,Food,Fresh fruit & vegetable market,1182.27,UPI,Expense
+2025-12-07,Food,Quick lunch at cafeteria,301.26,UPI,Expense
+2025-12-08,Food,Weekend food delivery order,540.41,Cash,Expense
+2025-12-08,Healthcare,Diagnostic lab blood test,3101.35,Debit Card,Expense
+2025-12-09,Shopping,Personal care & grooming products,3866.68,Debit Card,Expense
+2025-12-09,Travel,Intercity express bus ticket,357.62,Cash,Expense
+2025-12-09,Food,Fresh fruit & vegetable market,1399.34,Credit Card,Expense
+2025-12-13,Entertainment,Live music concert pass,1024.65,Credit Card,Expense
+2025-12-14,Travel,Uber / Ola city cab ride,1390.57,Cash,Expense
+2025-12-14,Utilities,Water utility municipal payment,531.41,UPI,Expense
+2025-12-14,Entertainment,Streaming subscription (Netflix/Spotify),1310.42,Credit Card,Expense
+2025-12-15,Food,Morning cafe coffee & pastry,1210.67,Cash,Expense
+2025-12-17,Food,Snacks and bakery items,951.9,UPI,Expense
+2025-12-17,Travel,Uber / Ola city cab ride,500.53,Cash,Expense
+2025-12-18,Travel,Uber / Ola city cab ride,165.13,Cash,Expense
+2025-12-18,Entertainment,Streaming subscription (Netflix/Spotify),845.73,Credit Card,Expense
+2025-12-20,Shopping,Personal care & grooming products,5715.91,Net Banking,Expense
+2025-12-21,Food,Supermarket grocery haul,687.19,UPI,Expense
+2025-12-22,Healthcare,General doctor consultation fee,2923.25,Cash,Expense
+2025-12-23,Entertainment,Weekend cinema multiplex movie tickets,499.98,Debit Card,Expense
+2025-12-23,Shopping,Personal care & grooming products,1016.85,UPI,Expense
+2025-12-25,Entertainment,Live music concert pass,1706.51,UPI,Expense
+2025-12-25,Utilities,Mobile prepaid/postpaid recharge,1224.05,Net Banking,Expense
+2025-12-26,Food,Restaurant family dinner,304.89,Credit Card,Expense
+2025-12-27,Food,Restaurant family dinner,1647.66,Credit Card,Expense
+2025-12-29,Travel,Metro card monthly recharge,426.37,Credit Card,Expense
+2026-01-01,Food,Restaurant family dinner,1318.25,Credit Card,Expense
+2026-01-01,Food,Fresh fruit & vegetable market,1523.31,Credit Card,Expense
+2026-01-01,Salary,Monthly corporate payroll salary,60000.0,Net Banking,Income
+2026-01-02,Rent,Monthly apartment housing rent,16000.0,Net Banking,Expense
+2026-01-04,Shopping,Footwear & sneakers purchase,3135.52,Credit Card,Expense
+2026-01-05,Healthcare,Multivitamins and health supplements,2275.72,Debit Card,Expense
+2026-01-10,Food,Restaurant family dinner,1104.1,Credit Card,Expense
+2026-01-10,Shopping,Home decor and kitchenware,3084.93,Net Banking,Expense
+2026-01-11,Utilities,Water utility municipal payment,2458.79,Net Banking,Expense
+2026-01-12,Travel,Metro card monthly recharge,646.22,UPI,Expense
+2026-01-12,Salary,Freelance web consulting milestone,11582.0,Net Banking,Income
+2026-01-13,Shopping,Electronics & phone accessories,1440.2,Debit Card,Expense
+2026-01-15,Utilities,Monthly electricity bill,2055.14,UPI,Expense
+2026-01-17,Utilities,High-speed fiber internet bill,2799.31,Debit Card,Expense
+2026-01-18,Utilities,Water utility municipal payment,1718.09,Net Banking,Expense
+2026-01-18,Food,Morning cafe coffee & pastry,1031.73,Credit Card,Expense
+2026-01-19,Food,Restaurant family dinner,588.13,Debit Card,Expense
+2026-01-20,Travel,Uber / Ola city cab ride,1094.91,UPI,Expense
+2026-01-22,Shopping,Personal care & grooming products,1847.22,Net Banking,Expense
+2026-01-23,Food,Morning cafe coffee & pastry,950.63,UPI,Expense
+2026-01-23,Food,Morning cafe coffee & pastry,1575.18,Debit Card,Expense
+2026-01-24,Healthcare,Dental checkup & cleaning,1381.83,Cash,Expense
+2026-01-24,Shopping,Footwear & sneakers purchase,5301.23,Debit Card,Expense
+2026-01-26,Travel,Train journey ticket,492.76,UPI,Expense
+2026-01-31,Healthcare,Diagnostic lab blood test,2657.5,Cash,Expense
+2026-02-03,Salary,Monthly corporate payroll salary,52000.0,Net Banking,Income
+2026-02-05,Rent,Monthly apartment housing rent,16000.0,Net Banking,Expense
+2026-02-06,Food,Fresh fruit & vegetable market,837.54,Cash,Expense
+2026-02-07,Entertainment,Video game purchase,2172.41,Credit Card,Expense
+2026-02-07,Food,Restaurant family dinner,1487.18,Cash,Expense
+2026-02-14,Entertainment,Live music concert pass,2010.61,UPI,Expense
+2026-02-15,Shopping,Personal care & grooming products,2584.79,Debit Card,Expense
+2026-02-16,Shopping,Personal care & grooming products,4719.24,UPI,Expense
+2026-02-17,Healthcare,Multivitamins and health supplements,1644.23,Cash,Expense
+2026-02-17,Food,Quick lunch at cafeteria,983.91,Cash,Expense
+2026-02-17,Food,Morning cafe coffee & pastry,1738.21,Debit Card,Expense
+2026-02-17,Food,Fresh fruit & vegetable market,666.31,Credit Card,Expense
+2026-02-18,Travel,Metro card monthly recharge,922.01,Credit Card,Expense
+2026-02-18,Food,Snacks and bakery items,1752.59,Cash,Expense
+2026-02-20,Healthcare,Pharmacy prescription medicines,1028.58,UPI,Expense
+2026-02-21,Travel,Uber / Ola city cab ride,391.96,Cash,Expense
+2026-02-22,Travel,Intercity express bus ticket,900.93,Cash,Expense
+2026-02-22,Entertainment,Streaming subscription (Netflix/Spotify),1905.87,UPI,Expense
+2026-02-23,Travel,Train journey ticket,74.52,UPI,Expense
+2026-02-23,Healthcare,Pharmacy prescription medicines,1280.0,Debit Card,Expense
+2026-02-25,Entertainment,Video game purchase,1651.16,Credit Card,Expense
+2026-02-26,Food,Supermarket grocery haul,1189.17,UPI,Expense
+2026-02-27,Travel,Metro card monthly recharge,164.16,Cash,Expense
+2026-02-28,Shopping,Electronics & phone accessories,1699.08,Debit Card,Expense
+2026-02-28,Food,Snacks and bakery items,1717.2,UPI,Expense
+2026-03-02,Shopping,Casual clothing & apparel,1480.38,Debit Card,Expense
+2026-03-02,Salary,Monthly corporate payroll salary,55000.0,Net Banking,Income
+2026-03-03,Rent,Monthly apartment housing rent,16000.0,Net Banking,Expense
+2026-03-04,Shopping,Home decor and kitchenware,4846.94,Credit Card,Expense
+2026-03-05,Entertainment,Streaming subscription (Netflix/Spotify),1675.53,Debit Card,Expense
+2026-03-05,Shopping,Footwear & sneakers purchase,3958.55,Net Banking,Expense
+2026-03-05,Food,Snacks and bakery items,390.85,Cash,Expense
+2026-03-05,Travel,Petrol / Fuel refill,1267.55,Cash,Expense
+2026-03-06,Travel,Intercity express bus ticket,292.21,Cash,Expense
+2026-03-07,Food,Restaurant family dinner,1716.1,UPI,Expense
+2026-03-07,Food,Quick lunch at cafeteria,1714.13,Debit Card,Expense
+2026-03-11,Travel,Metro card monthly recharge,732.03,Cash,Expense
+2026-03-12,Shopping,Electronics & phone accessories,4989.48,Debit Card,Expense
+2026-03-14,Food,Weekend food delivery order,1683.67,Debit Card,Expense
+2026-03-14,Travel,Uber / Ola city cab ride,363.5,Cash,Expense
+2026-03-16,Food,Quick lunch at cafeteria,1248.24,UPI,Expense
+2026-03-16,Healthcare,Pharmacy prescription medicines,2784.6,UPI,Expense
+2026-03-16,Food,Fresh fruit & vegetable market,226.78,Cash,Expense
+2026-03-17,Food,Restaurant family dinner,1679.58,UPI,Expense
+2026-03-18,Food,Supermarket grocery haul,735.49,Credit Card,Expense
+2026-03-19,Travel,Petrol / Fuel refill,533.49,Credit Card,Expense
+2026-03-20,Healthcare,Diagnostic lab blood test,3335.94,Credit Card,Expense
+2026-03-21,Entertainment,Weekend cinema multiplex movie tickets,1931.99,Credit Card,Expense
+2026-03-22,Shopping,Personal care & grooming products,1391.96,UPI,Expense
+2026-03-22,Travel,Metro card monthly recharge,987.14,UPI,Expense
+2026-03-23,Food,Weekend food delivery order,978.06,Credit Card,Expense
+2026-03-23,Food,Restaurant family dinner,700.72,Cash,Expense
+2026-03-23,Healthcare,Multivitamins and health supplements,1060.2,Debit Card,Expense
+2026-03-25,Food,Fresh fruit & vegetable market,1629.57,Credit Card,Expense
+2026-03-25,Utilities,Water utility municipal payment,1869.76,UPI,Expense
+2026-03-26,Travel,Intercity express bus ticket,570.39,Credit Card,Expense
+2026-03-26,Utilities,LPG cooking gas cylinder refill,1013.54,Debit Card,Expense
+2026-03-27,Shopping,Casual clothing & apparel,1393.9,UPI,Expense
+2026-04-01,Salary,Monthly corporate payroll salary,55000.0,Net Banking,Income
+2026-04-03,Travel,Auto rickshaw fare,108.16,Credit Card,Expense
+2026-04-03,Rent,Monthly apartment housing rent,16000.0,Net Banking,Expense
+2026-04-04,Shopping,Online retail order (Amazon/Flipkart),2951.28,Debit Card,Expense
+2026-04-05,Travel,Train journey ticket,893.6,Credit Card,Expense
+2026-04-05,Shopping,Electronics & phone accessories,920.62,Debit Card,Expense
+2026-04-07,Healthcare,Dental checkup & cleaning,2301.2,UPI,Expense
+2026-04-07,Food,Restaurant family dinner,1489.98,UPI,Expense
+2026-04-08,Food,Restaurant family dinner,1737.25,Credit Card,Expense
+2026-04-09,Shopping,Footwear & sneakers purchase,4289.1,UPI,Expense
+2026-04-10,Shopping,Casual clothing & apparel,1463.64,UPI,Expense
+2026-04-10,Food,Supermarket grocery haul,942.28,UPI,Expense
+2026-04-15,Food,Snacks and bakery items,319.61,Credit Card,Expense
+2026-04-16,Travel,Metro card monthly recharge,450.25,UPI,Expense
+2026-04-16,Food,Restaurant family dinner,1579.25,Cash,Expense
+2026-04-19,Food,Supermarket grocery haul,974.4,Credit Card,Expense
+2026-04-19,Food,Morning cafe coffee & pastry,436.04,Cash,Expense
+2026-04-20,Food,Morning cafe coffee & pastry,188.66,UPI,Expense
+2026-04-20,Healthcare,Multivitamins and health supplements,1453.02,Debit Card,Expense
+2026-04-20,Shopping,Casual clothing & apparel,1768.04,UPI,Expense
+2026-04-21,Food,Morning cafe coffee & pastry,1199.26,UPI,Expense
+2026-04-22,Utilities,Water utility municipal payment,2198.63,Debit Card,Expense
+2026-04-22,Entertainment,Weekend cinema multiplex movie tickets,949.12,UPI,Expense
+2026-04-24,Food,Morning cafe coffee & pastry,1749.4,Debit Card,Expense
+2026-04-24,Travel,Metro card monthly recharge,1295.31,Credit Card,Expense
+2026-04-25,Shopping,Casual clothing & apparel,456.1,UPI,Expense
+2026-04-26,Food,Quick lunch at cafeteria,613.23,Debit Card,Expense
+2026-04-27,Shopping,Home decor and kitchenware,896.23,Net Banking,Expense
+2026-04-28,Utilities,Monthly electricity bill,1710.24,Net Banking,Expense
+2026-04-29,Food,Morning cafe coffee & pastry,766.96,Credit Card,Expense
+2026-05-01,Rent,Monthly apartment housing rent,16000.0,Net Banking,Expense
+2026-05-01,Utilities,Water utility municipal payment,807.1,Credit Card,Expense
+2026-05-02,Salary,Monthly corporate payroll salary,55000.0,Net Banking,Income
+2026-05-03,Utilities,High-speed fiber internet bill,1581.46,Net Banking,Expense
+2026-05-06,Shopping,Footwear & sneakers purchase,5254.34,Credit Card,Expense
+2026-05-09,Travel,Petrol / Fuel refill,384.08,UPI,Expense
+2026-05-14,Shopping,Electronics & phone accessories,4051.82,Net Banking,Expense
+2026-05-15,Travel,Metro card monthly recharge,1355.32,Credit Card,Expense
+2026-05-16,Shopping,Footwear & sneakers purchase,2107.6,Net Banking,Expense
+2026-05-16,Entertainment,Streaming subscription (Netflix/Spotify),1350.52,Debit Card,Expense
+2026-05-17,Healthcare,Diagnostic lab blood test,3218.03,Debit Card,Expense
+2026-05-17,Food,Weekend food delivery order,993.71,Cash,Expense
+2026-05-19,Food,Snacks and bakery items,655.88,Cash,Expense
+2026-05-19,Shopping,Electronics & phone accessories,5752.58,Net Banking,Expense
+2026-05-20,Salary,Freelance web consulting milestone,9674.0,Net Banking,Income
+2026-05-21,Utilities,LPG cooking gas cylinder refill,2326.75,UPI,Expense
+2026-05-22,Travel,Train journey ticket,122.24,Credit Card,Expense
+2026-05-22,Shopping,Casual clothing & apparel,2759.09,UPI,Expense
+2026-05-23,Food,Quick lunch at cafeteria,316.67,Credit Card,Expense
+2026-05-24,Food,Morning cafe coffee & pastry,1055.43,Debit Card,Expense
+2026-05-24,Food,Morning cafe coffee & pastry,284.09,Credit Card,Expense
+2026-05-26,Food,Quick lunch at cafeteria,1112.6,Debit Card,Expense
+2026-05-27,Utilities,LPG cooking gas cylinder refill,878.76,UPI,Expense
+2026-05-28,Travel,Intercity express bus ticket,1002.05,Credit Card,Expense
+2026-05-28,Travel,Petrol / Fuel refill,791.13,Cash,Expense
+2026-05-28,Healthcare,General doctor consultation fee,2876.39,UPI,Expense
+2026-05-28,Food,Weekend food delivery order,1050.48,Credit Card,Expense
+2026-05-31,Entertainment,Weekend cinema multiplex movie tickets,2107.81,Credit Card,Expense
+2026-06-02,Salary,Monthly corporate payroll salary,52000.0,Net Banking,Income
+2026-06-03,Rent,Monthly apartment housing rent,16000.0,Net Banking,Expense
+2026-06-04,Food,Morning cafe coffee & pastry,1636.29,UPI,Expense
+2026-06-04,Utilities,Water utility municipal payment,1232.47,Net Banking,Expense
+2026-06-06,Travel,Train journey ticket,890.98,Cash,Expense
+2026-06-06,Food,Supermarket grocery haul,144.44,Credit Card,Expense
+2026-06-08,Entertainment,Video game purchase,1411.96,Debit Card,Expense
+2026-06-09,Entertainment,Streaming subscription (Netflix/Spotify),985.59,Credit Card,Expense
+2026-06-09,Food,Snacks and bakery items,1012.68,Debit Card,Expense
+2026-06-10,Travel,Train journey ticket,406.05,Credit Card,Expense
+2026-06-11,Food,Restaurant family dinner,449.25,Cash,Expense
+2026-06-12,Food,Weekend food delivery order,1290.52,UPI,Expense
+2026-06-12,Utilities,LPG cooking gas cylinder refill,2334.78,UPI,Expense
+2026-06-12,Utilities,Monthly electricity bill,1942.41,Net Banking,Expense
+2026-06-13,Food,Snacks and bakery items,1627.32,Debit Card,Expense
+2026-06-13,Food,Supermarket grocery haul,1676.67,UPI,Expense
+2026-06-13,Travel,Metro card monthly recharge,1110.1,Credit Card,Expense
+2026-06-13,Healthcare,Diagnostic lab blood test,1784.7,Credit Card,Expense
+2026-06-14,Entertainment,Video game purchase,1884.08,Credit Card,Expense
+2026-06-14,Travel,Metro card monthly recharge,1207.7,Cash,Expense
+2026-06-15,Travel,Auto rickshaw fare,191.1,Cash,Expense
+2026-06-15,Travel,Petrol / Fuel refill,233.07,Cash,Expense
+2026-06-17,Food,Restaurant family dinner,848.87,Cash,Expense
+2026-06-19,Travel,Petrol / Fuel refill,885.24,UPI,Expense
+2026-06-21,Salary,Freelance web consulting milestone,17891.0,Net Banking,Income
+2026-06-21,Food,Morning cafe coffee & pastry,181.97,Cash,Expense
+2026-06-22,Food,Restaurant family dinner,188.42,Cash,Expense
+2026-06-23,Entertainment,Video game purchase,474.18,Credit Card,Expense
+2026-06-25,Food,Restaurant family dinner,1424.37,UPI,Expense
+2026-06-25,Food,Weekend food delivery order,428.12,Debit Card,Expense
+2026-06-27,Travel,Intercity express bus ticket,914.16,Credit Card,Expense
+2026-06-27,Entertainment,Live music concert pass,971.59,Credit Card,Expense
+2026-06-27,Food,Weekend food delivery order,907.35,Debit Card,Expense
+2026-06-28,Healthcare,Pharmacy prescription medicines,2002.86,UPI,Expense
+2026-06-29,Travel,Metro card monthly recharge,1167.45,Cash,Expense
+2026-06-29,Shopping,Electronics & phone accessories,1451.15,Net Banking,Expense
+2026-06-29,Food,Fresh fruit & vegetable market,1196.67,Cash,Expense
+2026-07-01,Salary,Monthly corporate payroll salary,60000.0,Net Banking,Income
+2026-07-02,Entertainment,Live music concert pass,1245.72,UPI,Expense
+2026-07-04,Rent,Monthly apartment housing rent,16000.0,Net Banking,Expense
+2026-07-08,Utilities,High-speed fiber internet bill,1040.54,Debit Card,Expense
+2026-07-10,Food,Supermarket grocery haul,1572.73,UPI,Expense
+2026-07-15,Travel,Uber / Ola city cab ride,423.61,Cash,Expense
+2026-07-17,Food,Weekend food delivery order,1234.68,Debit Card,Expense
+2026-07-17,Travel,Intercity express bus ticket,694.45,Cash,Expense
+2026-07-18,Food,Morning cafe coffee & pastry,1228.77,Credit Card,Expense
+2026-07-18,Food,Quick lunch at cafeteria,742.68,Debit Card,Expense
+2026-07-19,Food,Supermarket grocery haul,1343.4,Credit Card,Expense
+2026-07-24,Food,Weekend food delivery order,1393.18,UPI,Expense
+2026-07-26,Utilities,Water utility municipal payment,956.0,Credit Card,Expense
+2026-07-26,Travel,Train journey ticket,1274.51,Credit Card,Expense
+2026-07-29,Travel,Petrol / Fuel refill,307.7,Cash,Expense
+2026-07-30,Shopping,Casual clothing & apparel,5045.88,Credit Card,Expense
+2026-07-31,Food,Snacks and bakery items,314.66,Credit Card,Expense
+2026-08-01,Utilities,High-speed fiber internet bill,870.23,Net Banking,Expense
+2026-08-01,Salary,Monthly corporate payroll salary,58000.0,Net Banking,Income
+2026-08-02,Shopping,Personal care & grooming products,3670.19,Debit Card,Expense
+2026-08-02,Entertainment,Video game purchase,1989.55,Debit Card,Expense
+2026-08-03,Utilities,LPG cooking gas cylinder refill,407.02,Net Banking,Expense
+2026-08-04,Travel,Uber / Ola city cab ride,1072.44,Cash,Expense
+2026-08-04,Food,Snacks and bakery items,1467.69,UPI,Expense
+2026-08-04,Food,Supermarket grocery haul,1624.48,Debit Card,Expense
+2026-08-05,Rent,Monthly apartment housing rent,16000.0,Net Banking,Expense
+2026-08-07,Food,Supermarket grocery haul,737.76,Debit Card,Expense
+2026-08-10,Food,Quick lunch at cafeteria,1374.11,Cash,Expense
+2026-08-10,Travel,Metro card monthly recharge,1201.92,UPI,Expense
+2026-08-11,Shopping,Casual clothing & apparel,913.25,UPI,Expense
+2026-08-11,Entertainment,Bowling and weekend arcade games,1980.42,UPI,Expense
+2026-08-11,Food,Morning cafe coffee & pastry,164.3,Credit Card,Expense
+2026-08-11,Food,Restaurant family dinner,182.74,Credit Card,Expense
+2026-08-12,Food,Supermarket grocery haul,1617.12,Credit Card,Expense
+2026-08-12,Shopping,Personal care & grooming products,3466.34,Net Banking,Expense
+2026-08-13,Food,Restaurant family dinner,315.0,UPI,Expense
+2026-08-13,Utilities,Water utility municipal payment,2664.68,Net Banking,Expense
+2026-08-14,Food,Snacks and bakery items,1333.72,Cash,Expense
+2026-08-15,Shopping,Online retail order (Amazon/Flipkart),5580.26,Credit Card,Expense
+2026-08-16,Food,Restaurant family dinner,672.16,Cash,Expense
+2026-08-17,Food,Snacks and bakery items,1500.72,UPI,Expense
+2026-08-18,Travel,Train journey ticket,1112.14,Credit Card,Expense
+2026-08-20,Food,Fresh fruit & vegetable market,249.33,Cash,Expense
+2026-08-22,Food,Weekend food delivery order,150.61,Cash,Expense
+2026-08-22,Shopping,Home decor and kitchenware,1864.89,Credit Card,Expense
+2026-08-22,Travel,Train journey ticket,1249.52,Credit Card,Expense
+2026-08-23,Food,Supermarket grocery haul,375.2,Credit Card,Expense
+2026-08-24,Food,Supermarket grocery haul,1043.21,Debit Card,Expense
+2026-08-24,Food,Fresh fruit & vegetable market,433.35,UPI,Expense
+2026-08-25,Food,Morning cafe coffee & pastry,592.02,Cash,Expense
+2026-08-26,Food,Fresh fruit & vegetable market,529.9,Credit Card,Expense
+2026-08-27,Food,Quick lunch at cafeteria,236.53,UPI,Expense
+2026-08-27,Entertainment,Live music concert pass,683.35,Debit Card,Expense
+2026-08-27,Entertainment,Live music concert pass,1816.6,Debit Card,Expense
+2026-08-29,Travel,Uber / Ola city cab ride,632.9,UPI,Expense
+2026-08-29,Utilities,LPG cooking gas cylinder refill,1559.8,Net Banking,Expense
+2026-09-01,Rent,Monthly apartment housing rent,16000.0,Net Banking,Expense
+2026-09-01,Healthcare,Multivitamins and health supplements,1561.32,Cash,Expense
+2026-09-02,Salary,Monthly corporate payroll salary,55000.0,Net Banking,Income
+2026-09-03,Food,Morning cafe coffee & pastry,1777.97,Cash,Expense
+2026-09-04,Food,Snacks and bakery items,1297.63,UPI,Expense
+2026-09-06,Travel,Petrol / Fuel refill,1373.24,UPI,Expense
+2026-09-07,Utilities,LPG cooking gas cylinder refill,2284.56,UPI,Expense
+2026-09-10,Healthcare,Diagnostic lab blood test,2307.58,UPI,Expense
+2026-09-12,Food,Fresh fruit & vegetable market,997.37,Debit Card,Expense
+2026-09-12,Food,Snacks and bakery items,947.61,Cash,Expense
+2026-09-14,Food,Supermarket grocery haul,1112.7,Cash,Expense
+2026-09-14,Food,Quick lunch at cafeteria,160.85,Credit Card,Expense
+2026-09-14,Food,Supermarket grocery haul,1248.46,UPI,Expense
+2026-09-15,Food,Fresh fruit & vegetable market,418.1,UPI,Expense
+2026-09-15,Entertainment,Streaming subscription (Netflix/Spotify),1346.45,Credit Card,Expense
+2026-09-17,Food,Restaurant family dinner,1171.44,Debit Card,Expense
+2026-09-19,Travel,Auto rickshaw fare,1017.56,UPI,Expense
+2026-09-22,Food,Snacks and bakery items,260.28,Cash,Expense
+2026-09-22,Food,Snacks and bakery items,382.07,Debit Card,Expense
+2026-09-22,Healthcare,Multivitamins and health supplements,1790.38,UPI,Expense
+2026-09-23,Shopping,Electronics & phone accessories,676.35,Net Banking,Expense
+2026-09-23,Food,Snacks and bakery items,1481.73,Cash,Expense
+2026-09-24,Food,Quick lunch at cafeteria,1001.59,Credit Card,Expense
+2026-09-25,Travel,Auto rickshaw fare,190.22,Credit Card,Expense
+2026-09-28,Food,Restaurant family dinner,1111.06,Debit Card,Expense
+2026-09-28,Food,Supermarket grocery haul,1749.45,Credit Card,Expense
+2026-09-30,Healthcare,Pharmacy prescription medicines,546.68,UPI,Expense
+2026-10-01,Rent,Monthly apartment housing rent,16000.0,Net Banking,Expense
+2026-10-03,Salary,Monthly corporate payroll salary,55000.0,Net Banking,Income
+2026-10-03,Shopping,Home decor and kitchenware,501.19,UPI,Expense
+2026-10-05,Food,Morning cafe coffee & pastry,1777.55,UPI,Expense
+2026-10-06,Food,Snacks and bakery items,277.89,UPI,Expense
+2026-10-06,Shopping,Online retail order (Amazon/Flipkart),5872.37,Debit Card,Expense
+2026-10-07,Healthcare,Dental checkup & cleaning,1348.48,Cash,Expense
+2026-10-08,Healthcare,Diagnostic lab blood test,2536.89,Cash,Expense
+2026-10-08,Travel,Metro card monthly recharge,719.97,Credit Card,Expense
+2026-10-08,Food,Snacks and bakery items,706.67,Debit Card,Expense
+2026-10-08,Travel,Intercity express bus ticket,787.14,Credit Card,Expense
+2026-10-11,Food,Snacks and bakery items,336.52,Debit Card,Expense
+2026-10-12,Shopping,Casual clothing & apparel,3668.23,Net Banking,Expense
+2026-10-12,Shopping,Casual clothing & apparel,6352.7,Net Banking,Expense
+2026-10-14,Shopping,Home decor and kitchenware,6439.33,UPI,Expense
+2026-10-15,Food,Weekend food delivery order,1233.04,UPI,Expense

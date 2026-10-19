@@ -1,0 +1,58 @@
+======================================================================
+EXPENSE TRACKER APP - DATASET VALIDATION REPORT
+======================================================================
+File Path Analyzed     : C:\Users\Aniksha\OneDrive\Desktop\IIP PROJECTS\Expense Tracker App\data\expenses.csv
+Total Rows             : 328
+Total Columns          : 6
+
+1. SCHEMA VERIFICATION:
+   - Required Columns  : ['Date', 'Category', 'Description', 'Amount', 'Payment_Method', 'Type']
+   - Present Columns   : ['Date', 'Category', 'Description', 'Amount', 'Payment_Method', 'Type']
+   - Schema Status     : PASSED (All required columns found)
+
+2. MISSING VALUES ANALYSIS:
+   - Total Missing/NaN : 0
+     * Date             : 0 missing values
+     * Category         : 0 missing values
+     * Description      : 0 missing values
+     * Amount           : 0 missing values
+     * Payment_Method   : 0 missing values
+     * Type             : 0 missing values
+
+3. DUPLICATE ROWS ANALYSIS:
+   - Duplicate Rows    : 0
+   - Status            : PASSED (Zero duplicates detected)
+
+4. DATA TYPES & PARSING:
+     * Date             : str
+     * Category         : str
+     * Description      : str
+     * Amount           : float64
+     * Payment_Method   : str
+     * Type             : str
+   - Date Parsing      : PASSED (Valid YYYY-MM-DD)
+   - Date Span         : 2025-11-02 to 2026-10-15
+
+5. AMOUNT FIELD INTEGRITY:
+   - Non-numeric / NaN : 0
+   - Non-positive (<=0): 0
+   - Min Amount        : Rs. 74.52
+   - Max Amount        : Rs. 60,000.00
+   - Status            : PASSED (All amounts are strictly positive)
+
+6. CATEGORY & TYPE DISTRIBUTIONS:
+   - Transaction Types : {'Expense': 312, 'Income': 16}
+   - Payment Methods   : {'UPI': 81, 'Credit Card': 76, 'Debit Card': 59, 'Cash': 58, 'Net Banking': 54}
+   - Categories (8):
+     * Food             : 120 transactions
+     * Travel           : 55 transactions
+     * Shopping         : 45 transactions
+     * Utilities        : 29 transactions
+     * Entertainment    : 28 transactions
+     * Healthcare       : 23 transactions
+     * Salary           : 16 transactions
+     * Rent             : 12 transactions
+
+======================================================================
+OVERALL DATASET HEALTH: HEALTHY & READY FOR ANALYSIS
+======================================================================

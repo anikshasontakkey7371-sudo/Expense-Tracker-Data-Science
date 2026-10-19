@@ -1,0 +1,72 @@
+===========================================================================
+EXPENSE TRACKER APP - EXPLORATORY DATA ANALYSIS (EDA) REPORT
+===========================================================================
+Input Cleaned Dataset : C:\Users\Aniksha\OneDrive\Desktop\IIP PROJECTS\Expense Tracker App\data\cleaned_expenses.csv
+Analysis Date Range   : 2025-11-02 to 2026-10-15
+
+1. EXECUTIVE FINANCIAL SUMMARY:
+---------------------------------------------------------------------------
+   Total Transactions   : 328 records
+   - Income Entries     : 16 transactions
+   - Expense Entries    : 312 transactions
+
+   Total Income         : Rs. 712,159.00
+   Total Expenses       : Rs. 623,582.86
+   Net Balance (Savings): Rs. 88,576.14
+   Overall Savings Rate : 12.44%
+
+   Expense Distribution Metrics:
+   - Average Expense    : Rs. 1,998.66
+   - Median Expense     : Rs. 1,232.76
+   - Highest Expense    : Rs. 16,000.00
+   - Lowest Expense     : Rs. 74.52
+
+2. CATEGORY-WISE EXPENSE BREAKDOWN:
+---------------------------------------------------------------------------
+Category         | Total Spent (Rs.)  | % of Total | Txn Count | Avg Spend (Rs.)
+---------------------------------------------------------------------------
+Rent             | Rs.    192,000.00 |     30.79% |        12 | Rs.   16,000.00
+Shopping         | Rs.    141,225.56 |     22.65% |        45 | Rs.    3,138.35
+Food             | Rs.    115,544.31 |     18.53% |       120 | Rs.      962.87
+Utilities        | Rs.     47,741.98 |      7.66% |        29 | Rs.    1,646.28
+Healthcare       | Rs.     47,200.73 |      7.57% |        23 | Rs.    2,052.21
+Entertainment    | Rs.     39,976.42 |      6.41% |        28 | Rs.    1,427.73
+Travel           | Rs.     39,893.86 |      6.40% |        55 | Rs.      725.34
+---------------------------------------------------------------------------
+Top 5 Spending Categories: Rent, Shopping, Food, Utilities, Healthcare
+
+3. MONTHLY CASHFLOW & SAVINGS TIMELINE:
+---------------------------------------------------------------------------
+Month      | Income (Rs.)    | Expenses (Rs.)  | Net Savings (Rs.) | Savings Rate
+---------------------------------------------------------------------------
+2025-11    | Rs.  64,012.00 | Rs.  39,284.57 | Rs.    24,727.43 |       38.63%
+2025-12    | Rs.  52,000.00 | Rs.  57,397.73 | Rs.    -5,397.73 |      -10.38%
+2026-01    | Rs.  71,582.00 | Rs.  56,480.70 | Rs.    15,101.30 |       21.10%
+2026-02    | Rs.  52,000.00 | Rs.  49,521.66 | Rs.     2,478.34 |        4.77%
+2026-03    | Rs.  55,000.00 | Rs.  65,182.27 | Rs.   -10,182.27 |      -18.51%
+2026-04    | Rs.  55,000.00 | Rs.  52,100.86 | Rs.     2,899.14 |        5.27%
+2026-05    | Rs.  64,674.00 | Rs.  60,195.93 | Rs.     4,478.07 |        6.92%
+2026-06    | Rs.  69,891.00 | Rs.  52,494.56 | Rs.    17,396.44 |       24.89%
+2026-07    | Rs.  60,000.00 | Rs.  34,818.51 | Rs.    25,181.49 |       41.97%
+2026-08    | Rs.  58,000.00 | Rs.  63,335.45 | Rs.    -5,335.45 |       -9.20%
+2026-09    | Rs.  55,000.00 | Rs.  44,212.65 | Rs.    10,787.35 |       19.61%
+2026-10    | Rs.  55,000.00 | Rs.  48,557.97 | Rs.     6,442.03 |       11.71%
+---------------------------------------------------------------------------
+
+4. TOP 5 LARGEST INDIVIDUAL EXPENSES:
+---------------------------------------------------------------------------
+Date        | Category       | Amount (Rs.)   | Payment Method | Description
+---------------------------------------------------------------------------
+2025-11-02  | Rent           | Rs. 16,000.00 | Net Banking    | Monthly apartment housing rent
+2026-08-05  | Rent           | Rs. 16,000.00 | Net Banking    | Monthly apartment housing rent
+2025-12-05  | Rent           | Rs. 16,000.00 | Net Banking    | Monthly apartment housing rent
+2026-09-01  | Rent           | Rs. 16,000.00 | Net Banking    | Monthly apartment housing rent
+2026-04-03  | Rent           | Rs. 16,000.00 | Net Banking    | Monthly apartment housing rent
+---------------------------------------------------------------------------
+
+5. KEY DATA SCIENCE TAKEAWAYS & PATTERNS:
+---------------------------------------------------------------------------
+   * Dominant Outflow : 'Rent' is the highest expense category at 30.8% of total outflows.
+   * Cashflow Health  : The net cash balance is POSITIVE (+Rs. 88,576.14) with a healthy 12.4% savings rate.
+   * Consistency      : Fixed monthly rent (Rs. 16,000/mo) accounts for the largest recurring single expenditure.
+===========================================================================

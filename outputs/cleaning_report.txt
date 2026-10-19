@@ -1,0 +1,48 @@
+======================================================================
+EXPENSE TRACKER APP - DATA CLEANING & VALIDATION AUDIT REPORT
+======================================================================
+Input Raw Dataset      : C:\Users\Aniksha\OneDrive\Desktop\IIP PROJECTS\Expense Tracker App\data\expenses.csv
+Output Cleaned Dataset : C:\Users\Aniksha\OneDrive\Desktop\IIP PROJECTS\Expense Tracker App\data\cleaned_expenses.csv
+
+1. ROW COUNT SUMMARY:
+   - Initial Raw Rows     : 328
+   - Invalid Rows Dropped : 0
+   - Duplicates Removed   : 0
+   - Final Cleaned Rows   : 328
+   - Retention Rate       : 100.00%
+
+2. MISSING VALUES AUDIT (RAW DATA):
+   - Total Missing Cells  : 0
+     * Date             : 0 missing
+     * Category         : 0 missing
+     * Description      : 0 missing
+     * Amount           : 0 missing
+     * Payment_Method   : 0 missing
+     * Type             : 0 missing
+
+3. INVALID RECORDS BREAKDOWN & ACTIONS TAKEN:
+   - Unparseable Dates    : 0 (Action: Dropped invalid date records)
+   - Non-numeric Amounts  : 0 (Action: Dropped non-numeric values)
+   - Non-positive Amounts : 0 (Action: Dropped amounts <= 0)
+   - Invalid Types (!= Inc/Exp) : 0 (Action: Filtered strictly to Income/Expense)
+
+4. DUPLICATES AUDIT:
+   - Duplicates Identified: 0
+   - Action Taken         : Kept first unique occurrence, removed identical copies.
+
+5. TEXT STANDARDIZATION:
+   - Category             : Stripped spaces, normalized to Title Case.
+   - Payment_Method       : Stripped spaces, normalized with 'UPI' capitalized.
+   - Type                 : Stripped spaces, capitalized ('Income' / 'Expense').
+   - Description          : Stripped whitespace.
+
+6. CLEANED DATASET METRICS:
+   - Total Income Rows    : 16
+   - Total Expense Rows   : 312
+   - Total Income Amount  : Rs. 712,159.00
+   - Total Expense Amount : Rs. 623,582.86
+   - Date Span            : 2025-11-02 to 2026-10-15
+
+======================================================================
+STATUS: DATA CLEANING PIPELINE COMPLETED SUCCESSFULLY
+======================================================================
